@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\Projekte\\FoodTracker\\FoodTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\models\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\models\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\service\\openfoodapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\service\\openfoodapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\barcodereaderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\barcodereaderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\models\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\models\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\foodtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\foodtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\barcodereaderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|solutionrelative:foodtracker\\barcodereaderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{978BD7E1-093D-4F2F-B17A-0F82737E895F}|FoodTracker\\FoodTracker.csproj|d:\\projekte\\foodtracker\\foodtracker\\foodtracker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -34,45 +54,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "FoodTracker\\MainPage.xaml.cs",
-              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MainPage.xaml.cs",
-              "RelativeToolTip": "FoodTracker\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "DocumentIndex": 8,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "FoodTracker\\NewPage1.xaml.cs",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\NewPage1.xaml.cs",
+              "RelativeToolTip": "FoodTracker\\NewPage1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:02:45.251Z",
+              "WhenOpened": "2024-07-16T17:12:30.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "FoodTracker\\MauiProgram.cs",
-              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MauiProgram.cs",
-              "RelativeToolTip": "FoodTracker\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:02:37.623Z",
+              "DocumentIndex": 7,
+              "Title": "FoodTracker",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\FoodTracker.csproj",
+              "RelativeDocumentMoniker": "FoodTracker\\FoodTracker.csproj",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\FoodTracker.csproj",
+              "RelativeToolTip": "FoodTracker\\FoodTracker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T17:02:21.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "FoodTracker\\NewPage1.xaml",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\NewPage1.xaml",
+              "RelativeToolTip": "FoodTracker\\NewPage1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T17:12:25.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OpenFoodApiService.cs",
-              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Service\\OpenFoodApiService.cs",
-              "RelativeDocumentMoniker": "FoodTracker\\Service\\OpenFoodApiService.cs",
-              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Service\\OpenFoodApiService.cs",
-              "RelativeToolTip": "FoodTracker\\Service\\OpenFoodApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "FoodType.cs",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Models\\FoodType.cs",
+              "RelativeDocumentMoniker": "FoodTracker\\Models\\FoodType.cs",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Models\\FoodType.cs",
+              "RelativeToolTip": "FoodTracker\\Models\\FoodType.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:18:22.343Z",
+              "WhenOpened": "2024-07-16T16:56:26.406Z",
               "EditorCaption": ""
             },
             {
@@ -83,33 +116,85 @@
               "RelativeDocumentMoniker": "FoodTracker\\Models\\Food.cs",
               "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Models\\Food.cs",
               "RelativeToolTip": "FoodTracker\\Models\\Food.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:16:08.714Z",
+              "WhenOpened": "2024-07-16T16:56:18.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FoodType.cs",
-              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Models\\FoodType.cs",
-              "RelativeDocumentMoniker": "FoodTracker\\Models\\FoodType.cs",
-              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Models\\FoodType.cs",
-              "RelativeToolTip": "FoodTracker\\Models\\FoodType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAFAAAA",
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Service\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "FoodTracker\\Service\\DataBaseService.cs",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Service\\DataBaseService.cs",
+              "RelativeToolTip": "FoodTracker\\Service\\DataBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:08:55.166Z",
+              "WhenOpened": "2024-07-16T16:54:24.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenFoodApiService.cs",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Service\\OpenFoodApiService.cs",
+              "RelativeDocumentMoniker": "FoodTracker\\Service\\OpenFoodApiService.cs",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\Service\\OpenFoodApiService.cs",
+              "RelativeToolTip": "FoodTracker\\Service\\OpenFoodApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:49:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarCodeReaderPage.xaml.cs",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\BarCodeReaderPage.xaml.cs",
+              "RelativeDocumentMoniker": "FoodTracker\\BarCodeReaderPage.xaml.cs",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\BarCodeReaderPage.xaml.cs",
+              "RelativeToolTip": "FoodTracker\\BarCodeReaderPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:48:06.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FoodTracker\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MainPage.xaml.cs",
+              "RelativeToolTip": "FoodTracker\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:47:59.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BarCodeReaderPage.xaml",
+              "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\BarCodeReaderPage.xaml",
+              "RelativeDocumentMoniker": "FoodTracker\\BarCodeReaderPage.xaml",
+              "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\BarCodeReaderPage.xaml",
+              "RelativeToolTip": "FoodTracker\\BarCodeReaderPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T16:46:37.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MainPage.xaml",
               "RelativeDocumentMoniker": "FoodTracker\\MainPage.xaml",
               "ToolTip": "D:\\Projekte\\FoodTracker\\FoodTracker\\FoodTracker\\MainPage.xaml",
               "RelativeToolTip": "FoodTracker\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-16T14:06:57.392Z",
               "EditorCaption": ""

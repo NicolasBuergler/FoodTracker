@@ -57,7 +57,7 @@ namespace FoodTracker.Models
         [JsonProperty("image_front_url")]
         public string imagelink { get; set; }
 
-        [JsonProperty("generic_name")]
+        [JsonProperty("product_name")]
         public string Name { get; set; }
     }
 

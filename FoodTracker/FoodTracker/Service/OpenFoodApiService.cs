@@ -19,9 +19,9 @@ namespace FoodTracker.Service
             return responseBody;
         }
 
-        public async static Task<FoodType> GetFoodTypeByBarcode(int Barcode)
+        public async static Task<FoodType> GetFoodTypeByBarcode(string Barcode)
         {
-            string url = $"https://world.openfoodfacts.org/api/v2/product/5449000214911";
+            string url = $"https://world.openfoodfacts.org/api/v2/product/{Barcode}";
             string response = await GetApiData(url);
 
             FoodType foodType = JsonConvert.DeserializeObject<FoodType>(response);
