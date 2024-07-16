@@ -1,0 +1,44 @@
+# .NET-Build-Ordner
+bin/
+obj/
+
+# Benutzer-spezifische Dateien
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ordner fuer lokale Veroeffentlichungen
+publish/
+out/
+
+# NuGet
+*.nupkg
+# NuGet Symbol Package
+*.snupkg
+
+# Mac
+*.DS_Store
+._*
+
+# Umgebungsvariable
+.env
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Log-Dateien
+*.log
+
+# Anwendungsprotokolle
+logs/
