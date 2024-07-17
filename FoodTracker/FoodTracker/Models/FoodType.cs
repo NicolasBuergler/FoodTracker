@@ -16,7 +16,7 @@ namespace FoodTracker.Models
         /// </summary> 
         public float Carbohydrates {  get; set; }
 
-        [JsonProperty("energy-kcal_value")]
+        [JsonProperty("energy_value")]
         /// <summary>
         /// Einheit: Kilokalorie
         /// </summary>
@@ -54,8 +54,8 @@ namespace FoodTracker.Models
         [JsonProperty("nutriments")]
         public Nutriments Nutriments { get; set; }
 
-        [JsonProperty("image_front_url")]
-        public string imagelink { get; set; }
+        [JsonProperty("image_front_small_url")]
+        public string Imagelink { get; set; }
 
         [JsonProperty("product_name")]
         public string Name { get; set; }

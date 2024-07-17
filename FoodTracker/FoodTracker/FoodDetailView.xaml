@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodTracker.FoodDetailView"
+             Title="FoodDetailView">
+    <ScrollView Margin="20">
+        <VerticalStackLayout>
+            <Label 
+            Text="{Binding Food.Type.Product.Name}"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+                FontAttributes="Bold" FontSize="20"/>
+
+            <Image Source="{Binding Food.Type.Product.Imagelink}" MaximumHeightRequest="250" HorizontalOptions="Center"></Image>
+
+            <Label Text="Date" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Label Text="{Binding Food.EatingDateTime}"/>
+
+            <Label Text="Carbohydrates (g)" FontAttributes="Bold" Margin="0,10,0,0" />
+            <Label Text="{Binding Food.Type.Product.Nutriments.Carbohydrates}" />
+
+            <Label Text="Energy (kcal)" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Label Text="{Binding Food.Type.Product.Nutriments.Energy}" />
+
+            <Label Text="Fat (g)" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Label Text="{Binding Food.Type.Product.Nutriments.Fat}" />
+
+            <Label Text="Proteins (g)" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Label Text="{Binding Food.Type.Product.Nutriments.Proteins}" />
+
+            <Label Text="Salt (g)" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Label Text="{Binding Food.Type.Product.Nutriments.Salt}" />
+
+            <Label Text="Sugar (g)" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Label Text="{Binding Food.Type.Product.Nutriments.Sugar}" />
+
+            <Button x:Name="HomeBtn" Text="Home" Clicked="HomeBtn_Clicked"  HorizontalOptions="Fill" Margin="13,10,13,0"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

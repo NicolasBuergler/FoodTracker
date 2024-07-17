@@ -5,19 +5,20 @@
              x:Class="FoodTracker.BarCodeReaderPage"
              Title="BarCodeReaderPage">
 
-    <VerticalStackLayout>
+    <VerticalStackLayout Padding="30,0"
+Spacing="25">
         <Label 
             Text="Welcome to .NET MAUI!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-        <VerticalStackLayout
-            Padding="30,0"
-            Spacing="25">
-            <zxing:CameraBarcodeReaderView x:Name="barcodeReader" 
+        <Button x:Name="HomeBtn" Text="Home" Clicked="HomeBtn_Clicked"  HorizontalOptions="Fill" Margin="0,0,0,50"/>
+
+
+        <zxing:CameraBarcodeReaderView  x:Name="barcodeReader" 
                                            IsDetecting="True" IsTorchOn="False" BarcodesDetected="CameraBarcodeReaderView_BarcodesDetected"
                                            WidthRequest="300" HeightRequest="300"></zxing:CameraBarcodeReaderView>
 
-        </VerticalStackLayout>
+  
     </VerticalStackLayout>
 </ContentPage>

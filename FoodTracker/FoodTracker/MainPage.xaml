@@ -1,35 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:zxing="clr-namespace:ZXing.Net.Maui.Controls;assembly=ZXing.Net.MAUI.Controls"
              x:Class="FoodTracker.MainPage">
 
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <zxing:CameraBarcodeReaderView x:Name="barcodeReader" 
-                                           IsDetecting="True" IsTorchOn="False" BarcodesDetected="CameraBarcodeReaderView_BarcodesDetected"
-                                           WidthRequest="300" HeightRequest="300"></zxing:CameraBarcodeReaderView>
-
             <Label
-                x:Name="barcodeResult"
-                Text="Hello, World!"
+                x:Name="Titel"
+                Text="Food Tracker"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Welcome to &#10;.NET Multi-platform App UI"
+                Text="Erfasse deine konsumierten Nährstoffe!"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
 
             <Button
                 x:Name="CounterBtn"
-                Text="Click me" 
+                Text="Barcode Reader" 
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
+            <Button x:Name="FoodHistoryBtn" Text="Food History" Clicked="FoodHistoryBtn_Clicked" HorizontalOptions="Fill"/>
         </VerticalStackLayout>
     </ScrollView>
 
